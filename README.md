@@ -1,15 +1,15 @@
 # Bài thực hành 3
 
-- `Sample/`: bài 1 (LSTM) do sinh viên thực hiện.
-- `Assignment_2/`: bài 2, GRU 5 lớp, hidden size 256 trên UIT-VSFC.
-- `Assignment_3/`: bài 3, BiLSTM 5 lớp, hidden size 256 cho PhoNER.
+- `Bài làm/Assignment_1/`: bài 1, LSTM 5 lớp, hidden size 256 trên UIT-VSFC.
+- `Bài làm/Assignment_2/`: bài 2, GRU 5 lớp, hidden size 256 trên UIT-VSFC.
+- `Bài làm/Assignment_3/`: bài 3, BiLSTM 5 lớp, hidden size 256 cho PhoNER.
 
 Chạy từ thư mục gốc `C:\DS201\LAB3`:
 
 ```powershell
-python "mẫu\Sample\assignment_1.py"
-python "mẫu\Assignment_2\assignment_2.py"
-python "mẫu\Assignment_3\assignment_3.py" --data-dir "datasets\PhoNER_COVID19\data\word"
+python "Bài làm\Assignment_1\assignment_1.py"
+python "Bài làm\Assignment_2\assignment_2.py"
+python "Bài làm\Assignment_3\assignment_3.py" --data-dir "datasets\PhoNER_COVID19\data\word"
 ```
 
 ## Kết quả bài 1
