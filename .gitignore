@@ -1,0 +1,22 @@
+# Datasets are downloaded separately and may not be redistributed.
+datasets/
+data/
+
+# Trained model checkpoints.
+*.pt
+*.pth
+*.ckpt
+
+# Python-generated files.
+__pycache__/
+*.py[cod]
+
+# Notebook and editor caches.
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Local logs and OS files.
+*.log
+.DS_Store
+Thumbs.db
